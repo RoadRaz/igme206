@@ -1,7 +1,0 @@
-D:\Profiles\ap8093\source\repos\PracticeConsoleApp1\PracticeConsoleApp1\bin\Debug\PracticeConsoleApp1.exe.config
-D:\Profiles\ap8093\source\repos\PracticeConsoleApp1\PracticeConsoleApp1\bin\Debug\PracticeConsoleApp1.exe
-D:\Profiles\ap8093\source\repos\PracticeConsoleApp1\PracticeConsoleApp1\bin\Debug\PracticeConsoleApp1.pdb
-D:\Profiles\ap8093\source\repos\PracticeConsoleApp1\PracticeConsoleApp1\obj\Debug\PracticeConsoleApp1.csprojAssemblyReference.cache
-D:\Profiles\ap8093\source\repos\PracticeConsoleApp1\PracticeConsoleApp1\obj\Debug\PracticeConsoleApp1.csproj.CoreCompileInputs.cache
-D:\Profiles\ap8093\source\repos\PracticeConsoleApp1\PracticeConsoleApp1\obj\Debug\PracticeConsoleApp1.exe
-D:\Profiles\ap8093\source\repos\PracticeConsoleApp1\PracticeConsoleApp1\obj\Debug\PracticeConsoleApp1.pdb
