@@ -10,7 +10,7 @@ namespace PracticeConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, my name is Abhishek Panhale. AI in FIFA 19 is something that amazes me! However, I am also mesmerized with the scenic views in Uncharted:Lost Legacy.");
+            Console.WriteLine("Hello, my name is Abhishek Panhale. AI in FIFA 19 is something that amazes me!");
 
 
         }
