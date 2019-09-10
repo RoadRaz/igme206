@@ -1,0 +1,10 @@
+D:\Profiles\ap8093\HW1GDProg\igme206-master\ImageApp\bin\Debug\ImageApp.exe.config
+D:\Profiles\ap8093\HW1GDProg\igme206-master\ImageApp\bin\Debug\ImageApp.exe
+D:\Profiles\ap8093\HW1GDProg\igme206-master\ImageApp\bin\Debug\ImageApp.pdb
+D:\Profiles\ap8093\HW1GDProg\igme206-master\ImageApp\obj\Debug\ImageApp.csprojAssemblyReference.cache
+D:\Profiles\ap8093\HW1GDProg\igme206-master\ImageApp\obj\Debug\ImageApp.Form1.resources
+D:\Profiles\ap8093\HW1GDProg\igme206-master\ImageApp\obj\Debug\ImageApp.Properties.Resources.resources
+D:\Profiles\ap8093\HW1GDProg\igme206-master\ImageApp\obj\Debug\ImageApp.csproj.GenerateResource.cache
+D:\Profiles\ap8093\HW1GDProg\igme206-master\ImageApp\obj\Debug\ImageApp.csproj.CoreCompileInputs.cache
+D:\Profiles\ap8093\HW1GDProg\igme206-master\ImageApp\obj\Debug\ImageApp.exe
+D:\Profiles\ap8093\HW1GDProg\igme206-master\ImageApp\obj\Debug\ImageApp.pdb
