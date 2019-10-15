@@ -1,0 +1,22 @@
+<HALL>
+Currently you are inside a dark and creepy hall past the main door.
+Try to search for resources to fight the Demon with.
+Hall connects to -> Sword Room, Shield Room, Demon Room.|
+<SWORD ROOM>
+You can see a lot of gore war paintings on the walls.
+Behind one of the paintings you find a secret chamber full of Slayer Swords. You picked one sword!
+Sword Room connects to -> Hall.|
+<SHIELD ROOM>
+It's quite a rustic room full of books. Bats panic flee away when you enter.
+You see a armored soldier mannequin. You grab the shield on it!
+Shield Room connects to -> Hall, Laboratory.|
+<LABORATORY>
+It's a laboratory room. The demon might be experimenting with something.
+You found some energy syrup and drank it to re-energise yourself!
+Laboratory connects to -> Shield Room, Demon Room.|
+<DEMON ROOM>
+It's the Demon Room. The Demon is sitting on his throne and your friend is wounded on the ground besides him.
+You charge towards the Demon....|
+AHHHHHH! You do not have enough resources to fight against the Demon. The Demon kills you. GAME OVER :(|
+Hooray! You defeated the Demon using the Slayer sword and shield.
+You and your friend escape the Demon House :)
